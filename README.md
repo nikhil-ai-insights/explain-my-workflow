@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/explain-my-workflow/blob/dac334181b506a048232228b17f028df2c2fc51f/Explain%20My%20Workflow.png)
 # 🚀 Explain My Workflow
 
 > AI-powered tool that converts n8n workflow JSON into a clear, step-by-step setup and execution guide.
